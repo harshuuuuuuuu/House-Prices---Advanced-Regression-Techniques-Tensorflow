@@ -1,2 +1,33 @@
-# House-Prices---Advanced-Regression-Techniques-Tensorflow
-![Screenshot 2023-11-17 075239](https://github.com/harshuuuuuuuu/House-Prices---Advanced-Regression-Techniques-Tensorflow/assets/123855321/2c05594d-0120-4ed4-b33b-45ed6b439d45)
+# House Prices Prediction with TensorFlow
+
+Welcome to the House Prices Prediction project! This repository contains code for predicting house prices using TensorFlow. Here's a quick guide to get you started:
+
+## Files
+
+- **.gitignore**: Ignores unnecessary files for version control.
+  
+- **README.md**: You are here! Provides an overview of the project.
+
+- **TFRegression.ipynb**: Jupyter Notebook with TensorFlow code for predicting house prices.
+
+## Getting Started
+
+1. **Clone the Repository**: 
+    ```bash
+    git clone https://github.com/your-username/House-Prices---Advanced-Regression-Techniques-Tensorflow.git
+    ```
+
+2. **Navigate to the Directory**:
+    ```bash
+    cd House-Prices---Advanced-Regression-Techniques-Tensorflow
+    ```
+
+3. **Run the Notebook**:
+    - Open `TFRegression.ipynb` in a Jupyter Notebook.
+    - Follow the steps to train the model and make predictions.
+
+## Contributions
+
+Feel free to contribute by opening issues or pull requests. Your input is valuable!
+
+Let's predict some house prices! 🏠🚀
